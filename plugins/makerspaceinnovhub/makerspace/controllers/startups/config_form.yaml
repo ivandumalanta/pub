@@ -1,0 +1,10 @@
+name: Startups
+form: $/makerspaceinnovhub/makerspace/models/startups/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Startups
+defaultRedirect: makerspaceinnovhub/makerspace/startups
+create:
+    redirect: 'makerspaceinnovhub/makerspace/startups/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/startups
+update:
+    redirect: makerspaceinnovhub/makerspace/startups
+    redirectClose: makerspaceinnovhub/makerspace/startups

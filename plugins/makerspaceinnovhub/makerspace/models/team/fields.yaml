@@ -1,0 +1,37 @@
+fields:
+    formal_img_url:
+        label: 'Formal photo'
+        mode: image
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: mediafinder
+    wacky_img_url:
+        label: 'Wacky photo'
+        mode: image
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: mediafinder
+    firstname:
+        label: 'First name'
+        span: auto
+        type: text
+    middlename:
+        label: 'Middle name (Optional)'
+        span: auto
+        type: text
+    lastname:
+        label: 'Last name'
+        span: auto
+        type: text
+    position:
+        label: Position
+        span: full
+        type: text
+    status:
+        label: Status
+        span: right
+        type: switch

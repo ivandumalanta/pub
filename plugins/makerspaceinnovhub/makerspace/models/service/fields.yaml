@@ -1,0 +1,32 @@
+tabs:
+    fields:
+        category_id:
+            label: Category
+            options: getCategoryOptions
+            showSearch: true
+            span: auto
+            type: dropdown
+            tab: Category
+        img_url:
+            label: 'Featured photo'
+            mode: image
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: left
+            type: mediafinder
+            tab: 'Featured photo'
+fields:
+    header:
+        label: Header
+        span: auto
+        type: text
+    description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+    status:
+        label: Status
+        span: right
+        type: switch

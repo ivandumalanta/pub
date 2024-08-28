@@ -1,0 +1,10 @@
+name: About
+form: $/makerspaceinnovhub/makerspace/models/about/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\About
+defaultRedirect: makerspaceinnovhub/makerspace/about
+create:
+    redirect: 'makerspaceinnovhub/makerspace/about/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/about
+update:
+    redirect: makerspaceinnovhub/makerspace/about
+    redirectClose: makerspaceinnovhub/makerspace/about

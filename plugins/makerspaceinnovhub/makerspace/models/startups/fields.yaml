@@ -1,0 +1,32 @@
+fields:
+    hero_title:
+        label: Header
+        span: auto
+        type: text
+    hero_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+tabs:
+    fields:
+        title_tag:
+            label: 'Meta title'
+            span: auto
+            type: text
+            tab: Metadata
+        keywords:
+            label: Keywords
+            mode: string
+            separator: comma
+            customTags: true
+            useKey: false
+            span: auto
+            type: taglist
+            tab: Metadata
+        meta_description:
+            label: 'Meta description'
+            span: full
+            size: small
+            type: textarea
+            tab: Metadata

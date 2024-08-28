@@ -1,0 +1,16 @@
+columns:
+    header:
+        label: Header
+        type: text
+        searchable: true
+        sortable: true
+    status:
+        label: Status
+        type: switch
+        searchable: true
+        sortable: true
+    category_id:
+        label: Category
+        type: text
+        searchable: true
+        sortable: true

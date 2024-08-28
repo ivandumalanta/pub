@@ -1,0 +1,51 @@
+fields:
+    news_title:
+        label: 'News title'
+        span: auto
+        type: text
+    news_author:
+        label: Author
+        span: right
+        type: text
+    news_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+    status:
+        label: Status
+        span: right
+        type: switch
+tabs:
+    fields:
+        news_content:
+            label: 'News content'
+            size: giant
+            span: full
+            type: richeditor
+            tab: Content
+        news_img:
+            label: 'News photo'
+            mode: image
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: mediafinder
+            tab: 'Featured photo'
+        title_tag:
+            label: 'Meta title'
+            span: auto
+            type: text
+            tab: 'Meta Data'
+        keywords:
+            label: Keywords
+            span: auto
+            type: text
+            tab: 'Meta Data'
+        meta_description:
+            label: 'Meta description'
+            size: small
+            span: full
+            type: textarea
+            tab: 'Meta Data'

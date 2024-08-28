@@ -1,0 +1,48 @@
+tabs:
+    fields:
+        title_tag:
+            label: 'Meta title'
+            span: auto
+            type: text
+            tab: Metadata
+        keywords:
+            label: Keywords
+            mode: string
+            separator: comma
+            customTags: true
+            useKey: false
+            span: auto
+            type: taglist
+            tab: Metadata
+        meta_description:
+            label: 'Meta description'
+            size: small
+            span: full
+            type: textarea
+            tab: Metadata
+fields:
+    hero_title:
+        label: Header
+        span: auto
+        type: text
+    hero_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+    address:
+        label: Address
+        span: auto
+        type: text
+    contact_num:
+        label: 'Contact number'
+        span: auto
+        type: text
+    email:
+        label: Email
+        span: auto
+        type: text
+    work_hour:
+        label: 'Work hour description'
+        span: auto
+        type: text

@@ -1,0 +1,10 @@
+name: ServicePage
+form: $/makerspaceinnovhub/makerspace/models/servicepage/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\ServicePage
+defaultRedirect: makerspaceinnovhub/makerspace/servicepage
+create:
+    redirect: 'makerspaceinnovhub/makerspace/servicepage/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/servicepage
+update:
+    redirect: makerspaceinnovhub/makerspace/servicepage
+    redirectClose: makerspaceinnovhub/makerspace/servicepage

@@ -1,0 +1,221 @@
+v1.0.1:
+    - 'Initialize plugin'
+v1.0.2:
+    - 'Created table makerspaceinnovhub_makerspace_service'
+    - builder_table_create_makerspaceinnovhub_makerspace_service.php
+v1.0.3:
+    - 'Created table makerspaceinnovhub_makerspace_blog'
+    - builder_table_create_makerspaceinnovhub_makerspace_blog.php
+v1.0.4:
+    - 'Created table makerspaceinnovhub_makerspace_blog'
+    - builder_table_create_makerspaceinnovhub_makerspace_blog_2.php
+v1.0.5:
+    - 'Updated table makerspaceinnovhub_makerspace_blog'
+    - builder_table_update_makerspaceinnovhub_makerspace_news.php
+v1.0.6:
+    - 'Updated table makerspaceinnovhub_makerspace_news'
+    - builder_table_update_makerspaceinnovhub_makerspace_news_2.php
+v1.0.7:
+    - 'Created table makerspaceinnovhub_makerspace_news'
+    - builder_table_create_makerspaceinnovhub_makerspace_news.php
+v1.0.8:
+    - 'Created table makerspaceinnovhub_makerspace_tbi'
+    - builder_table_create_makerspaceinnovhub_makerspace_tbi.php
+v1.0.9:
+    - 'Updated table makerspaceinnovhub_makerspace_news'
+    - builder_table_update_makerspaceinnovhub_makerspace_news_3.php
+v1.0.10:
+    - 'Updated table makerspaceinnovhub_makerspace_tbi'
+    - builder_table_update_makerspaceinnovhub_makerspace_tbi.php
+v1.0.11:
+    - 'Created table makerspaceinnovhub_makerspace_list_partners'
+    - builder_table_create_makerspaceinnovhub_makerspace_list_partners.php
+v1.0.12:
+    - 'Updated table makerspaceinnovhub_makerspace_list_partners'
+    - builder_table_update_makerspaceinnovhub_makerspace_list_partners.php
+v1.0.13:
+    - 'Created table makerspaceinnovhub_makerspace_reviews'
+    - builder_table_create_makerspaceinnovhub_makerspace_reviews.php
+v1.0.14:
+    - 'Created table makerspaceinnovhub_makerspace_reviews'
+    - builder_table_create_makerspaceinnovhub_makerspace_reviews_2.php
+v1.0.15:
+    - 'Created table makerspaceinnovhub_makerspace_team_members'
+    - builder_table_create_makerspaceinnovhub_makerspace_team_members.php
+v1.0.16:
+    - 'Updated table makerspaceinnovhub_makerspace_team_members'
+    - builder_table_update_makerspaceinnovhub_makerspace_team_members.php
+v1.0.17:
+    - 'Created table makerspaceinnovhub_makerspace_test'
+    - builder_table_create_makerspaceinnovhub_makerspace_test.php
+v1.0.18:
+    - 'Updated table makerspaceinnovhub_makerspace_test'
+    - builder_table_update_makerspaceinnovhub_makerspace_test.php
+v1.0.19:
+    - 'Updated table makerspaceinnovhub_makerspace_service'
+    - builder_table_update_makerspaceinnovhub_makerspace_service.php
+v1.0.20:
+    - 'Drop table makerspaceinnovhub_makerspace_test'
+    - builder_table_delete_makerspaceinnovhub_makerspace_test.php
+v1.0.21:
+    - 'Created table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_create_makerspaceinnovhub_makerspace_service_category.php
+v1.0.22:
+    - 'Created table makerspaceinnovhub_makerspace_list_partners'
+    - builder_table_create_makerspaceinnovhub_makerspace_list_partners_2.php
+v1.0.23:
+    - 'Created table makerspaceinnovhub_makerspace_reviews'
+    - builder_table_create_makerspaceinnovhub_makerspace_reviews_3.php
+v1.0.24:
+    - 'Updated table makerspaceinnovhub_makerspace_reviews'
+    - builder_table_update_makerspaceinnovhub_makerspace_reviews.php
+v1.0.25:
+    - 'Updated table makerspaceinnovhub_makerspace_reviews'
+    - builder_table_update_makerspaceinnovhub_makerspace_reviews_2.php
+v1.0.26:
+    - 'Updated table makerspaceinnovhub_makerspace_list_partners'
+    - builder_table_update_makerspaceinnovhub_makerspace_list_partners_2.php
+v1.0.27:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category.php
+v1.0.28:
+    - 'Updated table makerspaceinnovhub_makerspace_team_members'
+    - builder_table_update_makerspaceinnovhub_makerspace_team_members_2.php
+v1.0.29:
+    - 'Updated table makerspaceinnovhub_makerspace_team_members'
+    - builder_table_update_makerspaceinnovhub_makerspace_team_members_3.php
+v1.0.30:
+    - 'Updated table makerspaceinnovhub_makerspace_team_members'
+    - builder_table_update_makerspaceinnovhub_makerspace_team_members_4.php
+v1.0.31:
+    - 'Updated table makerspaceinnovhub_makerspace_team_members'
+    - builder_table_update_makerspaceinnovhub_makerspace_team_members_5.php
+v1.0.32:
+    - 'Created table makerspaceinnovhub_makerspace_home'
+    - builder_table_create_makerspaceinnovhub_makerspace_home.php
+v1.0.33:
+    - 'Created table makerspaceinnovhub_makerspace_about'
+    - builder_table_create_makerspaceinnovhub_makerspace_about.php
+v1.0.34:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about.php
+v1.0.35:
+    - 'Updated table makerspaceinnovhub_makerspace_home'
+    - builder_table_update_makerspaceinnovhub_makerspace_metadata.php
+v1.0.36:
+    - 'Created table makerspaceinnovhub_makerspace_news_meta'
+    - builder_table_create_makerspaceinnovhub_makerspace_news_meta.php
+v1.0.37:
+    - 'Updated table makerspaceinnovhub_makerspace_metadata'
+    - builder_table_update_makerspaceinnovhub_makerspace_home_meta.php
+v1.0.38:
+    - 'Updated table makerspaceinnovhub_makerspace_home_meta'
+    - builder_table_update_makerspaceinnovhub_makerspace_home.php
+v1.0.39:
+    - 'Updated table makerspaceinnovhub_makerspace_home'
+    - builder_table_update_makerspaceinnovhub_makerspace_home_2.php
+v1.0.40:
+    - 'Updated table makerspaceinnovhub_makerspace_home'
+    - builder_table_update_makerspaceinnovhub_makerspace_home_3.php
+v1.0.41:
+    - 'Updated table makerspaceinnovhub_makerspace_home'
+    - builder_table_update_makerspaceinnovhub_makerspace_home_4.php
+v1.0.42:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_2.php
+v1.0.43:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_3.php
+v1.0.44:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_4.php
+v1.0.45:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_5.php
+v1.0.46:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_6.php
+v1.0.47:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_7.php
+v1.0.48:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_8.php
+v1.0.49:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_9.php
+v1.0.50:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_10.php
+v1.0.51:
+    - 'Created table makerspaceinnovhub_makerspace_about'
+    - builder_table_create_makerspaceinnovhub_makerspace_about_2.php
+v1.0.52:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_11.php
+v1.0.53:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_12.php
+v1.0.54:
+    - 'Updated table makerspaceinnovhub_makerspace_reviews'
+    - builder_table_update_makerspaceinnovhub_makerspace_reviews_3.php
+v1.0.55:
+    - 'Updated table makerspaceinnovhub_makerspace_list_partners'
+    - builder_table_update_makerspaceinnovhub_makerspace_list_partners_3.php
+v1.0.56:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category_2.php
+v1.0.57:
+    - 'Updated table makerspaceinnovhub_makerspace_service'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_2.php
+v1.0.58:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category_3.php
+v1.0.59:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category_4.php
+v1.0.60:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category_5.php
+v1.0.61:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category_6.php
+v1.0.62:
+    - 'Created table makerspaceinnovhub_makerspace_contact'
+    - builder_table_create_makerspaceinnovhub_makerspace_contact.php
+v1.0.63:
+    - 'Updated table makerspaceinnovhub_makerspace_contact'
+    - builder_table_update_makerspaceinnovhub_makerspace_contact.php
+v1.0.64:
+    - 'Updated table makerspaceinnovhub_makerspace_contact'
+    - builder_table_update_makerspaceinnovhub_makerspace_contact_2.php
+v1.0.65:
+    - 'Created table makerspaceinnovhub_makerspace_service_page'
+    - builder_table_create_makerspaceinnovhub_makerspace_service_page.php
+v1.0.66:
+    - 'Updated table makerspaceinnovhub_makerspace_service_category'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_category_7.php
+v1.0.67:
+    - 'Created table makerspaceinnovhub_makerspace_news_page'
+    - builder_table_create_makerspaceinnovhub_makerspace_news_page.php
+v1.0.68:
+    - 'Updated table makerspaceinnovhub_makerspace_news_page'
+    - builder_table_update_makerspaceinnovhub_makerspace_news_page.php
+v1.0.69:
+    - 'Created table makerspaceinnovhub_makerspace_startups'
+    - builder_table_create_makerspaceinnovhub_makerspace_startups.php
+v1.0.70:
+    - 'Updated table makerspaceinnovhub_makerspace_tbi'
+    - builder_table_update_makerspaceinnovhub_makerspace_tbi_2.php
+v1.0.71:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_13.php
+v1.0.72:
+    - 'Updated table makerspaceinnovhub_makerspace_about'
+    - builder_table_update_makerspaceinnovhub_makerspace_about_14.php
+v1.0.73:
+    - 'Updated table makerspaceinnovhub_makerspace_service'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_3.php
+v1.0.74:
+    - 'Updated table makerspaceinnovhub_makerspace_service'
+    - builder_table_update_makerspaceinnovhub_makerspace_service_4.php

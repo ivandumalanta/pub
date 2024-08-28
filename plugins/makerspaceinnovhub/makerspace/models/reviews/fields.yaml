@@ -1,0 +1,23 @@
+fields:
+    name:
+        label: Name
+        span: auto
+        type: text
+    img_url:
+        label: 'Profile picture'
+        mode: image
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: mediafinder
+    content:
+        label: 'Review content'
+        size: small
+        span: full
+        type: textarea
+    status:
+        label: Status
+        span: right
+        cssClass: ''
+        type: switch

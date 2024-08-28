@@ -1,0 +1,4 @@
+columns:
+    about_hero_title:
+        label: Title
+        type: text

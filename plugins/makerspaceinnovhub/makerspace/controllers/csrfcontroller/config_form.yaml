@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Csrf Controller
+
+# Model Form Field configuration
+form: $/makerspaceinnovhub/makerspace/models/csrfcontroller/fields.yaml
+
+# Model Class name
+modelClass: Makerspaceinnovhub\Makerspace\Models\CsrfController
+
+# Default redirect location
+defaultRedirect: makerspaceinnovhub/makerspace/csrfcontroller
+
+# Create page
+create:
+    title: backend::lang.form.create_title
+    redirect: makerspaceinnovhub/makerspace/csrfcontroller/update/:id
+    redirectClose: makerspaceinnovhub/makerspace/csrfcontroller
+
+# Update page
+update:
+    title: backend::lang.form.update_title
+    redirect: makerspaceinnovhub/makerspace/csrfcontroller
+    redirectClose: makerspaceinnovhub/makerspace/csrfcontroller
+
+# Preview page
+preview:
+    title: backend::lang.form.preview_title

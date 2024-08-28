@@ -1,0 +1,10 @@
+name: Team
+form: $/makerspaceinnovhub/makerspace/models/team/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Team
+defaultRedirect: makerspaceinnovhub/makerspace/team
+create:
+    redirect: 'makerspaceinnovhub/makerspace/team/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/team
+update:
+    redirect: makerspaceinnovhub/makerspace/team
+    redirectClose: makerspaceinnovhub/makerspace/team

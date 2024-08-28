@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Dynamic Api
+
+# Model Form Field configuration
+form: $/makerspaceinnovhub/makerspace/models/dynamicapi/fields.yaml
+
+# Model Class name
+modelClass: Makerspaceinnovhub\Makerspace\Models\DynamicApi
+
+# Default redirect location
+defaultRedirect: makerspaceinnovhub/makerspace/dynamicapi
+
+# Create page
+create:
+    title: backend::lang.form.create_title
+    redirect: makerspaceinnovhub/makerspace/dynamicapi/update/:id
+    redirectClose: makerspaceinnovhub/makerspace/dynamicapi
+
+# Update page
+update:
+    title: backend::lang.form.update_title
+    redirect: makerspaceinnovhub/makerspace/dynamicapi
+    redirectClose: makerspaceinnovhub/makerspace/dynamicapi
+
+# Preview page
+preview:
+    title: backend::lang.form.preview_title

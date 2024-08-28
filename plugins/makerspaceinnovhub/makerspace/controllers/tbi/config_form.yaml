@@ -1,0 +1,10 @@
+name: Tbi
+form: $/makerspaceinnovhub/makerspace/models/tbi/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Tbi
+defaultRedirect: makerspaceinnovhub/makerspace/tbi
+create:
+    redirect: 'makerspaceinnovhub/makerspace/tbi/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/tbi
+update:
+    redirect: makerspaceinnovhub/makerspace/tbi
+    redirectClose: makerspaceinnovhub/makerspace/tbi

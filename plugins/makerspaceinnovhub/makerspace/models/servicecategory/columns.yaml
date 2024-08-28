@@ -1,0 +1,11 @@
+columns:
+    category_name:
+        label: 'Category name'
+        type: text
+        searchable: true
+        sortable: true
+    status:
+        label: Status
+        type: switch
+        searchable: true
+        sortable: true

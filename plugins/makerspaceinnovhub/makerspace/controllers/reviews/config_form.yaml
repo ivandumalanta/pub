@@ -1,0 +1,10 @@
+name: Reviews
+form: $/makerspaceinnovhub/makerspace/models/reviews/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Reviews
+defaultRedirect: makerspaceinnovhub/makerspace/reviews
+create:
+    redirect: 'makerspaceinnovhub/makerspace/reviews/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/reviews
+update:
+    redirect: makerspaceinnovhub/makerspace/reviews
+    redirectClose: makerspaceinnovhub/makerspace/reviews

@@ -1,0 +1,44 @@
+fields:
+    category_name:
+        label: 'Category name'
+        span: auto
+        type: text
+    img_url:
+        label: 'Featured photo'
+        mode: image
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: mediafinder
+    description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+    status:
+        label: Status
+        span: right
+        type: switch
+tabs:
+    fields:
+        title_tag:
+            label: 'Meta title'
+            span: auto
+            type: text
+            tab: Metadata
+        keywords:
+            label: Keywords
+            mode: string
+            separator: comma
+            customTags: true
+            useKey: false
+            span: auto
+            type: taglist
+            tab: Metadata
+        meta_description:
+            label: 'Meta description'
+            span: full
+            size: small
+            type: textarea
+            tab: Metadata

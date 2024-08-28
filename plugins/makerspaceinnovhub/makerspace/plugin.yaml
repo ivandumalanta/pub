@@ -1,0 +1,69 @@
+plugin:
+    name: 'makerspaceinnovhub.makerspace::lang.plugin.name'
+    description: 'makerspaceinnovhub.makerspace::lang.plugin.description'
+    author: MakerspaceInnovhub
+    icon: oc-icon-server
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Makerspace Innovhub'
+        url: makerspaceinnovhub/makerspace/test
+        icon: icon-server
+        sideMenu:
+            side-menu-item7:
+                label: 'Service Category'
+                url: makerspaceinnovhub/makerspace/servicecategory
+                icon: icon-arrow-down
+            side-menu-item:
+                label: Services
+                url: makerspaceinnovhub/makerspace/service
+                icon: icon-arrow-right
+            side-menu-item2:
+                label: News
+                url: makerspaceinnovhub/makerspace/news
+                icon: icon-newspaper-o
+            side-menu-item3:
+                label: 'TBI list'
+                url: makerspaceinnovhub/makerspace/tbi
+                icon: icon-list-ul
+            side-menu-item4:
+                label: 'List of partners'
+                url: makerspaceinnovhub/makerspace/partnerlist
+                icon: icon-list-alt
+            side-menu-item5:
+                label: 'Reviews & testimonial'
+                url: makerspaceinnovhub/makerspace/reviews
+                icon: icon-star
+            side-menu-item6:
+                label: 'Team members'
+                url: makerspaceinnovhub/makerspace/team
+                icon: icon-users
+    main-menu-item2:
+        label: Pages
+        url: /
+        icon: icon-book
+        sideMenu:
+            side-menu-item:
+                label: Home
+                url: makerspaceinnovhub/makerspace/home
+                icon: icon-home
+            side-menu-item3:
+                label: Services
+                url: makerspaceinnovhub/makerspace/servicepage
+                icon: icon-th-list
+            side-menu-item2:
+                label: About
+                url: makerspaceinnovhub/makerspace/about
+                icon: icon-info-circle
+            side-menu-item5:
+                label: News
+                url: makerspaceinnovhub/makerspace/newspage
+                icon: icon-file-text-o
+            side-menu-item4:
+                label: Startups
+                url: makerspaceinnovhub/makerspace/startups
+                icon: icon-rocket
+            side-menu-item6:
+                label: 'Contact Us'
+                url: makerspaceinnovhub/makerspace/contact
+                icon: icon-phone

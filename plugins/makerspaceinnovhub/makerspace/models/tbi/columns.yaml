@@ -1,0 +1,11 @@
+columns:
+    company_name:
+        label: 'Company name'
+        type: text
+        searchable: true
+        sortable: true
+    status:
+        label: Status
+        type: switch
+        searchable: true
+        sortable: true

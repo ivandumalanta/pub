@@ -1,0 +1,10 @@
+name: ServiceCategory
+form: $/makerspaceinnovhub/makerspace/models/servicecategory/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\ServiceCategory
+defaultRedirect: makerspaceinnovhub/makerspace/servicecategory
+create:
+    redirect: 'makerspaceinnovhub/makerspace/servicecategory/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/servicecategory
+update:
+    redirect: makerspaceinnovhub/makerspace/servicecategory
+    redirectClose: makerspaceinnovhub/makerspace/servicecategory

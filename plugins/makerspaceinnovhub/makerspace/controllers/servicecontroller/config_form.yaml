@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Service Controller
+
+# Model Form Field configuration
+form: $/makerspaceinnovhub/makerspace/models/servicecontroller/fields.yaml
+
+# Model Class name
+modelClass: Makerspaceinnovhub\Makerspace\Models\ServiceController
+
+# Default redirect location
+defaultRedirect: makerspaceinnovhub/makerspace/servicecontroller
+
+# Create page
+create:
+    title: backend::lang.form.create_title
+    redirect: makerspaceinnovhub/makerspace/servicecontroller/update/:id
+    redirectClose: makerspaceinnovhub/makerspace/servicecontroller
+
+# Update page
+update:
+    title: backend::lang.form.update_title
+    redirect: makerspaceinnovhub/makerspace/servicecontroller
+    redirectClose: makerspaceinnovhub/makerspace/servicecontroller
+
+# Preview page
+preview:
+    title: backend::lang.form.preview_title

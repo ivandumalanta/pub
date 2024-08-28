@@ -1,0 +1,10 @@
+name: News
+form: $/makerspaceinnovhub/makerspace/models/news/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\News
+defaultRedirect: makerspaceinnovhub/makerspace/news
+create:
+    redirect: 'makerspaceinnovhub/makerspace/news/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/news
+update:
+    redirect: makerspaceinnovhub/makerspace/news
+    redirectClose: makerspaceinnovhub/makerspace/news

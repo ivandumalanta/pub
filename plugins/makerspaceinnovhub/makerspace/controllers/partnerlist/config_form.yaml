@@ -1,0 +1,10 @@
+name: Partnerlist
+form: $/makerspaceinnovhub/makerspace/models/partnerlist/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Partnerlist
+defaultRedirect: makerspaceinnovhub/makerspace/partnerlist
+create:
+    redirect: 'makerspaceinnovhub/makerspace/partnerlist/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/partnerlist
+update:
+    redirect: makerspaceinnovhub/makerspace/partnerlist
+    redirectClose: makerspaceinnovhub/makerspace/partnerlist

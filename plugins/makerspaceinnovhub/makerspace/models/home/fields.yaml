@@ -1,0 +1,51 @@
+tabs:
+    fields:
+        title_tag:
+            label: 'Meta title'
+            span: auto
+            type: text
+            tab: Metadata
+        keywords:
+            label: Keywords
+            mode: string
+            separator: comma
+            customTags: true
+            useKey: false
+            span: auto
+            type: taglist
+            tab: Metadata
+        meta_description:
+            label: 'Meta description'
+            size: small
+            span: full
+            type: textarea
+            tab: Metadata
+        hero_img_url:
+            label: 'Hero Img'
+            mode: image
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: mediafinder
+            tab: 'Featured Img'
+fields:
+    hero_title:
+        label: Header
+        span: auto
+        type: text
+    hero_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+    section1:
+        label: 'Rating and Reviews'
+        span: full
+        type: section
+    rating_header:
+        label: Header
+        span: full
+        cssClass: ''
+        readOnly: 0
+        type: text

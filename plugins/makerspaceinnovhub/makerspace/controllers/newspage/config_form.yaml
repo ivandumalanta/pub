@@ -1,0 +1,10 @@
+name: NewsPage
+form: $/makerspaceinnovhub/makerspace/models/newspage/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\NewsPage
+defaultRedirect: makerspaceinnovhub/makerspace/newspage
+create:
+    redirect: 'makerspaceinnovhub/makerspace/newspage/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/newspage
+update:
+    redirect: makerspaceinnovhub/makerspace/newspage
+    redirectClose: makerspaceinnovhub/makerspace/newspage

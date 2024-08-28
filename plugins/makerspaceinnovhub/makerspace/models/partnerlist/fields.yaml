@@ -1,0 +1,21 @@
+fields:
+    partner_name:
+        label: 'Partner Name'
+        span: auto
+        type: text
+    img_url:
+        label: Image
+        mode: image
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: mediafinder
+    title:
+        label: Title
+        span: auto
+        type: text
+    status:
+        label: Status
+        span: right
+        type: switch

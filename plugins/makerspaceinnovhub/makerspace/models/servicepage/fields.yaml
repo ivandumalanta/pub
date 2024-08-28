@@ -1,0 +1,21 @@
+fields:
+    hero_title:
+        label: Header
+        span: auto
+        type: text
+    hero_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+tabs:
+    fields:
+        img_url:
+            label: Image
+            mode: image
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: mediafinder
+            tab: 'Featured photo'

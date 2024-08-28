@@ -1,0 +1,11 @@
+columns:
+    partner_name:
+        label: 'Partner Name'
+        type: text
+        searchable: true
+        sortable: true
+    status:
+        label: Status
+        type: switch
+        searchable: true
+        sortable: true

@@ -1,0 +1,10 @@
+name: Service
+form: $/makerspaceinnovhub/makerspace/models/service/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Service
+defaultRedirect: makerspaceinnovhub/makerspace/service
+create:
+    redirect: 'makerspaceinnovhub/makerspace/service/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/service
+update:
+    redirect: makerspaceinnovhub/makerspace/service
+    redirectClose: makerspaceinnovhub/makerspace/service

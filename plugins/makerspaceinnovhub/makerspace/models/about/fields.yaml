@@ -1,0 +1,108 @@
+tabs:
+    fields:
+        title_tag:
+            label: 'Meta title'
+            span: auto
+            type: text
+            tab: Metadata
+        keywords:
+            label: Keywords
+            mode: string
+            separator: comma
+            customTags: true
+            useKey: false
+            span: auto
+            type: taglist
+            tab: Metadata
+        meta_description:
+            label: 'Meta description'
+            size: small
+            span: full
+            type: textarea
+            tab: Metadata
+        hero_img:
+            label: 'Hero Image'
+            mode: image
+            imageHeight: '1'
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: mediafinder
+            tab: 'Featured photo'
+        section4:
+            label: Sub-hero
+            span: full
+            type: section
+            tab: 'Featured photo'
+        sub_hero_img:
+            label: Image
+            mode: image
+            maxItems: '1'
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: mediafinder
+            tab: 'Featured photo'
+        section5:
+            label: 'Mission & vision'
+            span: full
+            type: section
+            tab: 'Featured photo'
+        mission_vission_img:
+            label: Image
+            mode: image
+            maxItems: '1'
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: mediafinder
+            tab: 'Featured photo'
+fields:
+    about_header:
+        label: Header
+        span: auto
+        type: text
+    about_hero_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea
+    section1:
+        label: 'About sub-description'
+        span: full
+        type: section
+    about_sub_description:
+        label: Sub-description
+        size: small
+        span: full
+        type: textarea
+    section2:
+        label: 'Mission & Vision'
+        span: full
+        type: section
+    mission_description:
+        label: Mission
+        size: small
+        span: auto
+        type: textarea
+    vision_description:
+        label: Vision
+        size: small
+        span: auto
+        type: textarea
+    section3:
+        label: 'Meet our team'
+        span: full
+        type: section
+    team_header:
+        label: Header
+        span: auto
+        type: text
+    team_description:
+        label: Description
+        size: small
+        span: full
+        type: textarea

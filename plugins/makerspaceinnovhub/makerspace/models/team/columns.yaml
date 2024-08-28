@@ -1,0 +1,21 @@
+columns:
+    lastname:
+        label: Lastname
+        type: text
+        searchable: true
+        sortable: true
+    firstname:
+        label: Firstname
+        type: text
+        searchable: true
+        sortable: true
+    position:
+        label: Position
+        type: text
+        searchable: true
+        sortable: true
+    status:
+        label: Status
+        type: switch
+        searchable: true
+        sortable: true

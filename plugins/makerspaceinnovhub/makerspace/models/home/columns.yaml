@@ -1,0 +1,5 @@
+columns:
+    title_tag:
+        label: 'Meta title'
+        type: text
+        searchable: false

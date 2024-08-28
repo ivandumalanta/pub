@@ -1,0 +1,10 @@
+name: Contact
+form: $/makerspaceinnovhub/makerspace/models/contact/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Contact
+defaultRedirect: makerspaceinnovhub/makerspace/contact
+create:
+    redirect: 'makerspaceinnovhub/makerspace/contact/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/contact
+update:
+    redirect: makerspaceinnovhub/makerspace/contact
+    redirectClose: makerspaceinnovhub/makerspace/contact

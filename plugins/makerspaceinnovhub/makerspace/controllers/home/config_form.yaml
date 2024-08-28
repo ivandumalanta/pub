@@ -1,0 +1,10 @@
+name: Home
+form: $/makerspaceinnovhub/makerspace/models/home/fields.yaml
+modelClass: MakerspaceInnovhub\Makerspace\Models\Home
+defaultRedirect: makerspaceinnovhub/makerspace/home
+create:
+    redirect: 'makerspaceinnovhub/makerspace/home/update/:id'
+    redirectClose: makerspaceinnovhub/makerspace/home
+update:
+    redirect: makerspaceinnovhub/makerspace/home
+    redirectClose: makerspaceinnovhub/makerspace/home
